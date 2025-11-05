@@ -2,7 +2,7 @@
 - **Game design**
 - **DOTS / ECS**
 - **Analytics & A/B tests** 
-- ASO & publishing**
+- **ASO & publishing**
 - **Monetization** (Ads/IAP) 
 - **Blender · Substance 3D · Marmoset**
 
